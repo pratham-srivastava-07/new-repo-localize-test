@@ -1,5 +1,3 @@
-import { useTranslation } from 'react-i18next';
-  const { t } = useTranslation();
 import { useTranslation } from "react-i18next";
 import { useState, useEffect } from "react";
 import i18next from "i18next";
@@ -11,7 +9,6 @@ const languages = [
 ];
 
 const LanguageSwitcher = () => {
-  const { t } = useTranslation();
   const { i18n } = useTranslation();
   const [menuOpen, setMenuOpen] = useState(false);
 

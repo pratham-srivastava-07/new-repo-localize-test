@@ -1,24 +1,18 @@
 {
   "eslint.config": {},
   "App": {
-    "njiojopkp": "njiojopkp",
-    "hnuhicdjopkcopkp0cfolcvf": "hnuhicdjopkcopkp0cfolcvf"
+    "hello": "hello"
   },
   "data": {},
-  "Example": {},
-  "Language": {},
+  "Example": {
+    "hello_example": "hello example"
+  },
   "main": {},
   "Price": {
-    "nnujjnoijmoi": "nnujjnoijmoi",
-    "pricenhuhudfhijdf": "pricenhuhudfhijdf"
+    "Hello_pricing": "Hello pricing"
   },
-  "script": {},
-  "test": {
-    "jujcijkopcdk": "jujcijkopcdk",
-    "udrhyh": "udrhyh",
-    "jkjockopkkc": "jkjockopkkc",
-    "jnhujci": "jnhujci",
-    "false": "false"
-  },
-  "test1": {}
+  "test": {},
+  "test1": {
+    "hello_test": "hello test"
+  }
 }

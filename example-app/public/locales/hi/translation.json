@@ -1,0 +1,18 @@
+{
+    "eslint.config": {},
+    "App": {
+        "hello": "नमस्ते"
+    },
+    "data": {},
+    "Example": {
+        "hello_example": "नमस्ते उदाहरण"
+    },
+    "main": {},
+    "Price": {
+        "Hello_pricing": "नमस्कार मूल्य निर्धारण"
+    },
+    "test": {},
+    "test1": {
+        "hello_test": "नमस्ते परीक्षण"
+    }
+}

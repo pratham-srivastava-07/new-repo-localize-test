@@ -1,20 +1,18 @@
 {
   "eslint.config": {},
   "App": {
-    "Welcome_to_My_b1cd1c": "मेरे रिएक्ट एप्लिकेशन में आपका स्वागत है",
-    "This_is_a_d12672": "यह एक सरल रिएक्ट घटक है जिसमें हार्डकोडेड पाठ है।",
-    "Feature_1_Fast_rendering": "विशेषता १: तेज रेंडरिंग",
-    "Feature_2_Componentbased_cff9b6": "विशेषता २: घटक-आधारित वास्तुकला",
-    "Feature_3_Virtual_10357e": "विशेषता ३: कुशलता के लिए वर्चुअल डीओएम",
-    "Thanks_for_visiting_94d2d7": "आपके आने के लिए धन्यवाद! example@email.com पर हमसे संपर्क करें"
+    "hello": "नमस्ते"
   },
   "data": {},
-  "Example": {},
-  "Language": {},
+  "Example": {
+    "hello_example": "नमस्ते उदाहरण"
+  },
   "main": {},
-  "Price": {},
+  "Price": {
+    "Hello_pricing": "नमस्कार मूल्य निर्धारण"
+  },
   "test": {},
   "test1": {
-    "jnidiojcd": "ज्निडियोजसीडी"
+    "hello_test": "नमस्ते परीक्षण"
   }
 }

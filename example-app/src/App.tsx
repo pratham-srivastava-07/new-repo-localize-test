@@ -26,9 +26,11 @@
 
 // import { useTranslation } from 'react-i18next';
 
+// import { useTranslation } from 'react-i18next';
 import { useTranslation } from 'react-i18next';
 const App = () => {
   const { t } = useTranslation();
+  // const { t } = useTranslation();
 
  
   
@@ -57,7 +59,7 @@ const App = () => {
 // import React from 'react'
   return (
     <div>
-     {t('App.hnuhicdjopkcopkp0cfolcvf')
+     {t('App.hello') 
      }</div>
   )
 }
